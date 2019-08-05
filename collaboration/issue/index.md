@@ -1,23 +1,23 @@
-# Issues
+﻿# イシュー
 
-Whenever you create an issue, or a comment on a pull request or commit, you also can include other GitHub users or teams into the conversation by performing a **mention** of them in the comment’s body. If you are familiar with social media services, this feature will look very familiar.
+プル要求やコミットでイシューを作成したり、コメントを作成したりする場合、コメントの本文に他の GitHub ユーザーまたはチームを**メンション**することで、会話に追加することもできます。ソーシャル メディア サービスを使い慣れているユーザーであれば、この機能はソーシャル メディアのものと同様に使えることでしょう。
 
-## Submit an issue
+## イシューの提出
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	お使いのブラウザーで、 **GitHub** の適用可能なレポジトリを開きます。
 
-2.	Click **Issues**, and then click **New issue**.
+2.	**Issues** をクリックしてから、**New issue** をクリックします。
 
-3.	In the **Title** text box, enter the title for the issue, and then in the **Leave a comment** text box, type a description of the issue or suggestion.
+3.	**Title** テキスト ボックスで、イシューの件名を入力してから、**Leave a comment** テキスト ボックスに、イシューまたは提案の詳細を入力します。
 
-4.	Click **Submit new issue**.
+4.	**Submit new issue** をクリックします。
 
-## Review and comment on an existing issue
+## 既存のイシューの確認およびコメント
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	お使いのブラウザーで、 **GitHub** の適用可能なレポジトリを開きます。
 
-2.	Click **Issues**, and then select the title of the issue that you want to review.
+2.	**Issues** をクリックしてから、確認するイシューの件名を選択します。
 
-3.	On the **Issue name** page, on the **Write** tab, in the **Leave a comment** text box, type your comment.
+3.	**Issue name** ページの **Write** タブで、**Leave a comment** テキスト ボックスにコメントを入力します。
 
-4.	Click **Comment**.
+4.	**Comment** をクリックします。
