@@ -1,7 +1,7 @@
-# Mention a GitHub user in a comment:
+﻿# コメント内で GitHub ユーザーをメンションする:
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	お使いのブラウザーで、 **GitHub** の適用可能なレポジトリを開きます。
 
-2.	Create your comment or issue, as described previously, and then in the **comment** text box, type **@**, followed by the user or team name, within the comment.
+2.	前述のとおり、コメントまたはイシューを作成し、**comment** テキスト ボックスのコメント内に、「**@**」に続けてユーザー名またはチーム名を入力します。
 
-    > **Note**: When you type the **@** symbol, a list appears that contains GitHub users who are collaborators on the applicable project and anyone who is participating in the project’s comments. The list uses autocomplete as you type, so that you can filter the list easily.
+    > **注記**: **@** 記号を入力すると、GitHub ユーザーのうち、該当プロジェクトにコラボレーションしているユーザーと、プロジェクトのコメントに参加しているユーザーの一覧が表示されます。この一覧は入力の際にオートコンプリート機能が適用されるため、簡単に抽出することができます。
