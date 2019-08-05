@@ -1,71 +1,72 @@
-# Suggesting changes and collaborating on a repo
+﻿# 変更の提案とレポジトリでのコラボレーション
 
-GitHub makes it easy to collaborate with other Microsoft Learning users on the courses in which you are interested. 
+GitHub を使用すると、興味のあるコースで、他の Microsoft Learning ユーザーと簡単にコラボレーションできます。 
 
-You can modify your own copy of the lab materials, and then submit your changes to Microsoft Learning so that they can incorporate your updates. You might want to modify your lab materials if:
+ラボ資料の自分のコピーを変更して、Microsoft Learning に変更を提出することで、更新を組み込んでもらうことができます。次の場合はラボ資料を変更することをお勧めします。
 
-- You find a mistake in a lab. 
+- ラボで誤りを見つけた。 
 
-- The UI has changed since the lab was created. 
+- ラボが作成された後に UI が変更された。 
 
-- You think that the lab needs improvements or modifications.
+- ラボの改善または変更が必要であると考えている。
 
-To modify lab materials, you should branch the repo, make updates in your branch, and then submit a pull request to the main (master) branch. This allows Microsoft Learning staff, and other MCTs and GitHub users to review, and comment on, your changes. 
+ラボ資料を変更するには、レポジトリをブランチし、自分のブランチに更新を加え、メイン (マスター) ブランチにプル要求を提出します。これにより、変更した項目を Microsoft Learning スタッフやその他 MCT および GitHub ユーザーが確認してコメントすることができます。 
 
-You can review and comment on changes that other users make, and Microsoft Learning staff then approves and merges these changes into the master branch. This action notifies any user who is watching the repo that a change has occurred.
+他のユーザーが加えた変更について確認およびコメントし、Microsoft Learinng スタッフが次にそれを承認し、その変更をマスター ブランチに適用できます。このアクションにより、変更が加えられたレポジトリをウォッチしているユーザー宛てに通知が送られます。
 
-## Create a repo branch
+## レポジトリ ブランチを作成する
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	お使いの Internet Explorerで、 GitHub の適用可能なレポジトリを開きます。
 
-1.	Click **Branch : branchname**, and then from the **Branches** list, select the branch you want to copy.
+1.	**Branch : branchname** をクリックしてから、**Branches** リストでコピーするブランチを選択します。
 
-    > **Note**:	If there is only one branch, the **Branch** drop-down list shows **Branch: master**, and the only branch that is available is **master**.
+    > **注記**: 	ブランチが 1 つしかない場合は、**Branch
+** ドロップダウン リストで、 **Branch: master** が表示され、利用できるブランチは **master** のみとなります。
 
-3.	In the blank text box, type the name of the branch that you want to create.
+3.	空白のテキスト ボックスに、作成するブランチ名を入力します。
 
-4.	Click **Create branch: new branch name** when it appears.
+4.	表示されたら **Create branch: new branch name** をクリックします。
 
-After you have created a Branch, you can clone the files to your local repo, update them on your computer, and then check in the changes from the GitHub Desktop. If you are working with Markdown or other text files, you can edit them in GitHub, and then check in the changes online.
+ブランチを作成したら、ローカル レポジトリにファイルをクローニングして、お使いのコンピューター上に更新してから、GitHub Desktop から変更を確認します。Markdown またはその他のテキスト ファイルで作業している場合は、GitHub でそれを編集してからオンラインで変更を確認できます。
 
-## Delete a repo branch
+## レポジトリ ブランチの作成
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	お使いの Internet Explorerで、 GitHub の適用可能なレポジトリを開きます。
 
-2.	Click ***n* branches**, where ***n*** is the number of existing branches.
+2.	***n* branches** をクリックします (***n*** は既存のブランチ数)。
 
-3.	On the **Branches** page, in the row for the branch that you want to delete, click **Delete this branch** icon.
+3.	**Branches** ページで、削除するブランチの行内で、**Delete this branch** アイコンをクリックします。
 
-## Commit changes by using GitHub Desktop:
+## GitHub Desktop を使用して変更をコミットする
 
-1.	Open **GitHub Desktop**.
+1.	**GitHub Desktop** を開きます。
 
-2.	Select the repo that contains your changes, and then click **Changes**.
+2.	変更が含まれるレポジトリを選択してから、**Changes** をクリックします。
 
-3.	Select the changes that you want to commit, and then in the **Summary** text box, write a short description of the change.
+3.	コミットする変更を選択してから、**Summary** テキスト ボックス内に変更に関する短い説明を記入します。
 
-4.	In the **Description** text box, write a more-detailed description of the change, if necessary.
+4.	必要な場合は、**Description** テキスト ボックス内に、より詳細な説明を記入します。
 
-5.	Click **Commit to master**, and then click **Sync** to push the local changes to the online repo.
+5.	**Commit to master** をクリックしてから **Sync** をクリックし、オンライン レポジトリにローカルの変更をプッシュします。
 
-## Edit files and commit changes in the online repo:
+## オンライン レポジトリ内のファイルを編集して、変更をコミットします。
 
-1.	In your browser, navigate to the applicable repository on **GitHub**, and then select the file that you want to edit.
+1.	お使いのブラウザーで、**GitHub** 上で該当のレポジトリを開き、編集するファイルを選択します。
 
-2.	Click the **Edit this file** icon.
+2.	**Edit this file** アイコンをクリックします。
 
-3.	Make your changes in the **Edit file** tab of the webpage, and then click **Preview changes** to view your proposed changes, without committing them.
+3.	Web ページ上の **Edit file** タブで変更を加えてから、**Preview changes** をクリックして、コミットせずに提案される変更を表示します。
 
-4.	Under **Commit changes**, in the **Update *filename*** text box, enter a short description of the changes.
+4.	**Commit changes** の下の **Update *filename*** テキストボックスに、変更に関する簡単な説明を入力します。
 
-5.	In the **Add an optional extended description...** text box, enter a more detailed description of the change, if necessary, and then click **Commit changes**.
+5.	必要な場合は、**Add an optional extended description...** テキスト ボックスにより詳細な説明を入力してから、**Commit changes** をクリックします。
 
-## Create a pull request:
+## プル要求を作成する
 
-1.	In your browser, navigate to the applicable repository on **GitHub**.
+1.	お使いのブラウザーで、 **GitHub** の適用可能なレポジトリを開きます。
 
-2.	Click **Branch:branchname**, and then in the **Branches** list, select the branch for which you want to create a pull request.
+2.	**Branch : branchname** をクリックしてから、**Branches** リストで、プル要求を作成するブランチを選択します。
 
-3.	Click **New pull request**, and then on the **Open a pull request** page, in the **Title** text box, update the name of the pull request, if necessary.
+3.	**New pull request** をクリックしてから、**Open a pull request** ページ内の **Title** テキスト ボックスで、必要に応じてプル要求の名前を更新します。
 
-4.	On the **Write** tab, in the **Leave a comment** text box, provide a description of the proposed change, and then click **Create pull request**.
+4.	**Write** タブの **Leave a comment** テキスト ボックスに、提案する変更の説明を入力してから、**Create pull request** をクリックします。
