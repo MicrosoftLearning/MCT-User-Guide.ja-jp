@@ -1,13 +1,13 @@
-# Receiving update notifications, suggesting changes, and collaborating on projects
+﻿# 更新通知の受け取り、変更の提案、プロジェクトでのコラボレーション方法
 
-You can configure your GitHub experience so that you receive notifications when updates occur to a GitHub repo. There are several ways in which you can sign up for notifications, and many of them relate to the many ways that you can collaborate on a project. To receive notifications, you can:
+GitHub エクスペリエンスを構成して、GitHub レポジトリが更新された際に通知を受け取れるように設定できます。通知の受け取りを登録するにはいくつかの方法があり、その多くの方法はプロジェクトでコラボレーションする方法に関連付けられています。通知を受け取る方法:
 
-| Action | Description |
+| アクション | 説明 |
 | --- | --- |
-| [Watch repositories](watching/) | When you watch a repository, GitHub subscribes you automatically to notifications for any new pull requests or issues that are created for that specific repository. You automatically watch any repository that you create or for which you are a collaborator. |
-| [Pull request](pullrequest/) | When you create a pull request, and propose that the owners of a repo accept a change that you make, you automatically subscribe to receive notifications for the related discussion about the pull request. In order to create a Pull request you must first create a branch. |
-| [Comments](comment/) | When you make comments about another person’s pull request, GitHub subscribes you automatically to the forum that pertains to that comment, or you can subscribe to the forum manually. |
-| [Issues](issue/) | An issue is a suggestion, question, or request that pertains to a repository. Each issue has its own discussion, and you can subscribe to issues, or GitHub subscribes you automatically to issues that you create. |
-| [Mentions](mention/) | When another user mentions you in a conversation, using your GitHub user name (@username), GitHub subscribes you automatically to the discussion. |
+| [レポジトリのウォッチ](watching/) | レポジトリをウォッチすると、GitHub は特定のレポジトリで作成された新しいプル要求またはイシューの購読を自動で有効にします。自分で作成したレポジトリ、またはコラボレーターとなっているレポジトリについては、レポジトリを自動的にウォッチします。 |
+| [プル要求](pullrequest/) | プル要求を作成し、変更を加えたレポジトリの所有者がそれを承認した場合、プル要求に関する関連ディスカッションの通知を自動的に受け取ることになります。プル要求を作成するには、最初にブランチを作成する必要があります。 |
+| [コメント](comment/) | 別のユーザーのプル要求についてコメントすると、GitHub は、コメントに関連するフォーラムの購読を自動で有効にします。また、フォーラムを手動で購読することも可能です。 |
+| [イシュー](issue/) | イシューとは、レポジトリに関連する提案、質問、またはリクエストです。各イシューには独自のディスカッションが設定されており、イシューを購読できます。または、GitHub は、自分が作成したイシューの購読を自動で有効にします。 |
+| [メンション](mention/) | 他のユーザーが別のスレッドで、GitHub ユーザー名 (@username) を使用してあなたを言及した場合、GitHub は該当ディスカッションの購読を自動で有効にします。 |
 
-> **Note**: You can modify how and when you receive notifications, and you also can unsubscribe to any or all discussions.
+> **注記**: 通知の受け取り方法および通知を受け取るタイミングを変更することや、すべてまたは一部のディカッションから購読を解除することもできます。
