@@ -1,17 +1,17 @@
-# Watching a repo
+﻿# レポジトリのウォッチ
 
-The simplest way to make sure you know about any changes to a repo is to watch it. You can do that, even if you do not clone a local copy of the repo.
+レポジトリの変更有無を確認する最も簡単な方法は、それをウォッチすることです。これは、ローカル コピーのレポジトリをクローンしなくても実行できます。
 
-To watch a repo, perform the following steps:
+レポジトリをウォッチするには、次の手順を実行します。
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	お使いの Internet Explorerで、 GitHub の適用可能なレポジトリを開きます。
 
-2.	Click **Watch**, and then under **Notifications**, select **Watching**.
+2.	**Watch** をクリックしてから、**Notifications** の下の **Watching** を選択します。
 
-To quit watching a repo, perform the following steps:
+レポジトリのウォッチを停止するには、次の手順を実行します。
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	お使いの Internet Explorerで、 GitHub の適用可能なレポジトリを開きます。
 
-2.	Click **Watch**, and then under Notifications, select **Not watching**.
+2.	**Watch** をクリックしてから、[Notifications] の下の **Not Watching** を選択します。
 
-> **Note**: You can select the **Ignoring** option under the **Watch** drop-down list. However, this means that you receive no notifications, even if another user includes you in a discussion with the mention functionality and your GitHub user name. Therefore, you should be careful configuring the **Ignoring** option.
+> **注記**: **Watch** ドロップダウン リストの下の **Ignoring** オプションを選択できます。ただし、このオプションを選択すると、別のユーザーがメンション機能と GitHub ユーザー名を使用してあなたをディスカッションに追加した場合でも、それらの通知を受け取ることはありません。このため、**Ignoring** オプションを使用する際は注意が必要です。
