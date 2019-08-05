@@ -1,5 +1,5 @@
-# Microsoft Learning's GitHub solution for course labs
+﻿# コース ラボに関する Microsoft Learning の GitHub ソリューション
 
-The Microsoft Learning team has created a solution that allows them to publish updated lab and lab answer keys (LAKs) and updated lab scripts regularly to GitHub. The solution also includes 
+Microsoft Learning チームは、更新されたラボ、ラボ アンサー キー (LAK)、 および更新されたラボ スクリプトを定期的に GitHub に公開することができるソリューションを作成しました。このソリューションには次も含まれています 
 
-> Coming Soon
+> 近日公開
