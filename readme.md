@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MCT 向け GitHub ユーザー ガイド
 
 Microsoft Azure などのクラウド サービスは頻繁に更新されるため、Microsoft 認定トレーナー (MCT) にとっては、クラウド サービスと一致しなくなったコースやラボの手順を教える際に困難が生じます 。 頻繁な変更と、変更されても通知されない場合があることが原因で、コース開発チームがラボの変更をすばやく特定し、調整するのは難しい場合があります。
